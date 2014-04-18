@@ -1,0 +1,25 @@
+{
+  "name": "flickr",
+  "version": "0.0.0",
+  "description": "",
+  "main": "flickr.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kikuchy/flickr.git"
+  },
+  "keywords": [
+    "flickr"
+  ],
+  "author": "kikuchy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kikuchy/flickr/issues"
+  },
+  "homepage": "https://github.com/kikuchy/flickr",
+  "dependencies": {
+  	"http-server": "*"
+  }
+}
