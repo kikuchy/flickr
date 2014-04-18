@@ -1,0 +1,23 @@
+{
+  "name": "flickr",
+  "version": "0.0.0",
+  "authors": [
+    "Hiroshi Kikuchi <hiroshi.kikuchi@mixi.co.jp>"
+  ],
+  "description": "get picture from flickr",
+  "main": "flickr.html",
+  "keywords": [
+    "flickr"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	  "jquery": "2.1.0"
+  }
+}
